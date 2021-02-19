@@ -6,7 +6,7 @@ Note that some information on this website may no longer be relevant or out-of-d
 What is Ethereum?
 ################################################################################
 
-Ethereum is an open blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. Like Bitcoin, no one controls or owns Ethereum – it is an open-source project built by many people around the world. But unlike the Bitcoin protocol, Ethereum was designed to be adaptable and flexible. It is easy to create new applications on the Ethereum platform, and with the :ref:`Homestead release <homestead-release>`, it is now safe for anyone to use those applications.
+Ethereum is an open blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. Like Bitcoin, no one controls or owns Ethereum – it is an open-source project built by many people around the world. But unlike the Bitcoin protocol, Ethereum was designed to be adaptable and flexible. It is easy to generate new applications on the Ethereum platform, and with the :ref:`Homestead release <homestead-release>`, it is now safe for anyone to use those applications.
 
 ================================================================================
 A next generation blockchain
